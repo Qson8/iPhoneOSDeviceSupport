@@ -1,9 +1,8 @@
 # iPhoneOSDeviceSupport
 
-```
-2020年6月23号 新增iOS14 真机调试包 [点击下载](https://pan.baidu.com/s/1mP_ueFPEBXfczJ5hWbbW8g) 。
-添加Hi Flutter公众号或者扫底部的二维码，回复 真机调试包 获取提取码。
-```
+`2020年6月23号` 新增iOS14 真机调试包 [点击下载](https://pan.baidu.com/s/1mP_ueFPEBXfczJ5hWbbW8g) 。
+添加Hi Flutter公众号或者扫底部的二维码，回复 `真机调试包` 获取提取码。
+
 
 
 
