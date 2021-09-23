@@ -1,7 +1,7 @@
 # iPhoneOSDeviceSupport
 
 -----------------------------------------------------------------
-新增15.0真机调试包  请github下载https://github.com/filsv/iPhoneOSDeviceSupport
+新增15.0真机调试包  
 
 
 将下载好的文件 放入 ```~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/```
