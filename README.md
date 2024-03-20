@@ -2,6 +2,8 @@
 
 -----------------------------------------------------------------
 新增17.4真机调试包  
+下载地址(因文件上传大小限制，后续都存储到云盘)：
+https://pan.baidu.com/s/1EPKOZZ0Q5pPmw1UydY5DRw?pwd=38vc
 
 
 将下载好的文件 放入 ```~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/```
