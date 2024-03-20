@@ -1,7 +1,7 @@
 # iPhoneOSDeviceSupport
 
 -----------------------------------------------------------------
-新增15.0真机调试包  
+新增17.4真机调试包  
 
 
 将下载好的文件 放入 ```~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/```
